@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Diego Silveira — portfólio back-end</title><desc id="desc">Capa vermelha, preta e branca com terminal para um portfólio de back-end.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFF8F7"/><stop offset="1" stop-color="#F4E9E7"/></linearGradient><linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A30E18"/><stop offset="1" stop-color="#EF233C"/></linearGradient></defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/><circle cx="1120" cy="20" r="180" fill="#E8C9C8" opacity=".55"/><path d="M0 304 Q230 254 435 311 T845 300 T1200 280 V360 H0Z" fill="#ECD9D7"/>
+<rect x="64" y="60" width="8" height="238" rx="4" fill="url(#red)"/>
+<text x="105" y="100" fill="#A30E18" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="3">BACK-END DEVELOPER · EM FORMAÇÃO</text>
+<text x="100" y="166" fill="#21191A" font-family="Segoe UI,Arial,sans-serif" font-size="54" font-weight="700">Diego Silveira</text>
+<text x="105" y="208" fill="#594849" font-family="Segoe UI,Arial,sans-serif" font-size="21">Análise e Desenvolvimento de Sistemas · graduação em andamento</text>
+<text x="105" y="258" fill="#A30E18" font-family="Consolas,Menlo,monospace" font-size="20">Python  /  SQL  /  APIs</text>
+<g transform="translate(748 76)"><rect width="390" height="206" rx="16" fill="#21191A"/><path d="M0 44h390" stroke="#4A3032"/><circle cx="24" cy="22" r="5" fill="#EF233C"/><circle cx="43" cy="22" r="5" fill="#E5A34B"/><circle cx="62" cy="22" r="5" fill="#8B7778"/>
+<text x="84" y="28" fill="#F5E7E7" font-family="Consolas,Menlo,monospace" font-size="13">diego@dev: ~</text><text x="25" y="86" fill="#FF5A65" font-family="Consolas,Menlo,monospace" font-size="15">$ whoami</text><text x="25" y="114" fill="#FFF8F7" font-family="Consolas,Menlo,monospace" font-size="15">desenvolvedor back-end em formação</text><text x="25" y="153" fill="#FF5A65" font-family="Consolas,Menlo,monospace" font-size="15">$ focus --current</text><text x="25" y="181" fill="#FFF8F7" font-family="Consolas,Menlo,monospace" font-size="15">Python · bancos de dados · sistemas</text></g></svg>
