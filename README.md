@@ -30,6 +30,10 @@ Tenho conhecimento intermediário em Python e bancos de dados. Nos meus projetos
 
 ## `$ projects --featured`
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kronosuchi17/kronosuchi17/main/assets/project-cards-red.svg" alt="Cartões vermelhos e pretos dos projetos EduTrack, Sistema Escolar e Mural de Avisos, com descrição e tecnologias de cada um." width="100%">
+</p>
+
 ### 01 · EduTrack
 
 Aplicação de gestão escolar estruturada em serviços separados para interface, back-end e banco de dados, com conteinerização e HTTPS.
