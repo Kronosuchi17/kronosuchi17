@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kronosuchi17/kronosuchi17/main/assets/header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kronosuchi17/kronosuchi17/main/assets/header-light.svg">
-    <img alt="Portfólio de Diego Silveira, estudante de ADS com foco em back-end, Python, SQL e APIs." src="https://raw.githubusercontent.com/Kronosuchi17/kronosuchi17/main/assets/header-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kronosuchi17/kronosuchi17/main/assets/header-red-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kronosuchi17/kronosuchi17/main/assets/header-red-light.svg">
+    <img alt="Portfólio de Diego Silveira, estudante de ADS com foco em back-end, Python, SQL e APIs." src="https://raw.githubusercontent.com/Kronosuchi17/kronosuchi17/main/assets/header-red-light.svg" width="100%">
   </picture>
 </p>
 
