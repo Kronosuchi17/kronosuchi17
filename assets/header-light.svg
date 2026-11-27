@@ -1,23 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
 <title id="title">Diego Silveira — portfólio back-end</title>
-<desc id="desc">Perfil de desenvolvedor em formação com visual de terminal, em tons de creme, verde e terracota.</desc>
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFF8ED"/><stop offset="1" stop-color="#E7EFE6"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#C96F4A"/><stop offset="1" stop-color="#E1A36D"/></linearGradient></defs>
-<rect width="1200" height="340" rx="28" fill="url(#bg)"/>
-<circle cx="1090" cy="15" r="175" fill="#DCE9DB"/><circle cx="1145" cy="60" r="94" fill="#C96F4A" opacity=".14"/>
-<path d="M0 288 Q245 238 430 293 T830 284 T1200 267 V340 H0Z" fill="#DDE9DD" opacity=".78"/>
-<rect x="64" y="60" width="7" height="220" rx="3.5" fill="url(#accent)"/>
-<text x="102" y="100" fill="#476450" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="3">PORTFÓLIO · BACK-END</text>
-<text x="98" y="164" fill="#263B32" font-family="Segoe UI,Arial,sans-serif" font-size="53" font-weight="700">Diego Silveira</text>
-<text x="102" y="204" fill="#52665A" font-family="Segoe UI,Arial,sans-serif" font-size="22">Análise e Desenvolvimento de Sistemas · em andamento</text>
-<text x="102" y="247" fill="#476450" font-family="Consolas,Menlo,monospace" font-size="20">Python  /  SQL  /  APIs</text>
-<g transform="translate(755 72)">
-<rect width="374" height="194" rx="16" fill="#25382F"/>
-<path d="M0 42h374" stroke="#496453" stroke-width="1"/>
-<circle cx="24" cy="21" r="5" fill="#E58B62"/><circle cx="43" cy="21" r="5" fill="#E6BD78"/><circle cx="62" cy="21" r="5" fill="#8BAE8E"/>
-<text x="84" y="27" fill="#D5E2D5" font-family="Consolas,Menlo,monospace" font-size="13">diego@dev: ~</text>
-<text x="25" y="83" fill="#A8C4A9" font-family="Consolas,Menlo,monospace" font-size="15">$ whoami</text>
-<text x="25" y="111" fill="#F3F2E9" font-family="Consolas,Menlo,monospace" font-size="15">desenvolvedor back-end em formação</text>
-<text x="25" y="147" fill="#A8C4A9" font-family="Consolas,Menlo,monospace" font-size="15">$ focus --current</text>
-<text x="25" y="175" fill="#F3F2E9" font-family="Consolas,Menlo,monospace" font-size="15">Python · bancos de dados · sistemas</text>
+<desc id="desc">Capa de portfólio em vermelho, preto e branco, com um terminal mostrando o foco em Python, bancos de dados e APIs.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFF8F7"/><stop offset="1" stop-color="#F4E9E7"/></linearGradient><linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A30E18"/><stop offset="1" stop-color="#EF233C"/></linearGradient></defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+<circle cx="1120" cy="20" r="180" fill="#E8C9C8" opacity=".55"/>
+<path d="M0 304 Q230 254 435 311 T845 300 T1200 280 V360 H0Z" fill="#ECD9D7"/>
+<rect x="64" y="60" width="8" height="238" rx="4" fill="url(#red)"/>
+<text x="105" y="100" fill="#A30E18" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="3">BACK-END DEVELOPER · EM FORMAÇÃO</text>
+<text x="100" y="166" fill="#21191A" font-family="Segoe UI,Arial,sans-serif" font-size="54" font-weight="700">Diego Silveira</text>
+<text x="105" y="208" fill="#594849" font-family="Segoe UI,Arial,sans-serif" font-size="21">Análise e Desenvolvimento de Sistemas · graduação em andamento</text>
+<text x="105" y="258" fill="#A30E18" font-family="Consolas,Menlo,monospace" font-size="20">Python  /  SQL  /  APIs</text>
+<g transform="translate(748 76)">
+<rect width="390" height="206" rx="16" fill="#21191A"/>
+<path d="M0 44h390" stroke="#4A3032" stroke-width="1"/>
+<circle cx="24" cy="22" r="5" fill="#EF233C"/><circle cx="43" cy="22" r="5" fill="#E5A34B"/><circle cx="62" cy="22" r="5" fill="#8B7778"/>
+<text x="84" y="28" fill="#F5E7E7" font-family="Consolas,Menlo,monospace" font-size="13">diego@dev: ~</text>
+<text x="25" y="86" fill="#FF5A65" font-family="Consolas,Menlo,monospace" font-size="15">$ whoami</text>
+<text x="25" y="114" fill="#FFF8F7" font-family="Consolas,Menlo,monospace" font-size="15">desenvolvedor back-end em formação</text>
+<text x="25" y="153" fill="#FF5A65" font-family="Consolas,Menlo,monospace" font-size="15">$ focus --current</text>
+<text x="25" y="181" fill="#FFF8F7" font-family="Consolas,Menlo,monospace" font-size="15">Python · bancos de dados · sistemas</text>
 </g>
 </svg>
