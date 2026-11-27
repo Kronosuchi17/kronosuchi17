@@ -7,10 +7,12 @@
 </p>
 
 <p align="center">
-  <kbd>Python · intermediário</kbd>
-  &nbsp; <kbd>Banco de dados · intermediário</kbd>
-  &nbsp; <a href="https://github.com/Kronosuchi17">GitHub: Kronosuchi17</a>
+  <code>PYTHON · INTERMEDIÁRIO</code>
+  &nbsp; <code>BANCO DE DADOS · INTERMEDIÁRIO</code>
+  &nbsp; <a href="https://github.com/Kronosuchi17">GITHUB · KRONOSUCHI17</a>
 </p>
+
+---
 
 ## `$ whoami`
 
@@ -18,41 +20,40 @@ Sou **Diego Silveira**, graduando em **Análise e Desenvolvimento de Sistemas**.
 
 Tenho conhecimento intermediário em Python e bancos de dados. Nos meus projetos web, também trabalho com APIs, persistência de dados e integração entre front-end e back-end.
 
+## `$ toolkit --skills`
+
+| Foco | Conhecimento |
+|:--|:--|
+| Linguagem | Python · intermediário |
+| Dados | Bancos de dados · intermediário |
+| Stack presente nos projetos | TypeScript · React · Express · PostgreSQL · Docker |
+
 ## `$ projects --featured`
 
-### EduTrack · Gestão escolar
+### 01 · EduTrack
 
 Aplicação de gestão escolar estruturada em serviços separados para interface, back-end e banco de dados, com conteinerização e HTTPS.
 
-**Stack do projeto:** React · TypeScript · Express · PostgreSQL · Docker  
-**Código-fonte:** repositório privado
+`React` `TypeScript` `Express` `PostgreSQL` `Docker` · Código-fonte privado
 
-### Sistema Escolar · Presença e notas
+### 02 · Sistema Escolar
 
-Sistema para apoiar chamada, diário de classe, notas, boletins, comunicados e calendário.
+Sistema de apoio à rotina escolar com chamada, diário de classe, notas, boletins, comunicados e calendário.
 
-**Stack do projeto:** React · TypeScript · Express · PostgreSQL  
-**Código-fonte:** repositório privado
+`React` `TypeScript` `Express` `PostgreSQL` · Código-fonte privado
 
-### Mural de Avisos · Comunicação escolar
+### 03 · Mural de Avisos
 
-Mural de comunicados por turma, com atualização em tempo real e notificações para responsáveis.
+Mural de comunicados organizados por turma, com atualização em tempo real e notificações para responsáveis.
 
-**Stack do projeto:** React · TypeScript · Express · PostgreSQL  
-**Código-fonte:** repositório privado
-
-## `$ toolkit --skills`
-
-- **Python:** intermediário
-- **Bancos de dados:** intermediário
-- **Tecnologias presentes nos projetos:** TypeScript, React, Express, PostgreSQL e Docker
+`React` `TypeScript` `Express` `PostgreSQL` · Código-fonte privado
 
 ## `$ education --current`
 
-🎓 **Análise e Desenvolvimento de Sistemas** — graduação em andamento
+🎓 **Análise e Desenvolvimento de Sistemas** · graduação em andamento
 
 <details>
-  <summary>Cursos e certificados</summary>
+  <summary><strong>$ courses --list</strong></summary>
 
 - Linguagem de Programação em Python
 - Administrando Banco de Dados
@@ -68,8 +69,8 @@ Mural de comunicados por turma, com atualização em tempo real e notificações
 
 ## `$ next`
 
-Criar projetos de back-end com Python e bancos de dados para demonstrar, na prática, como modelo dados, construo APIs e resolvo problemas com código.
+Criar projetos de back-end com Python e bancos de dados para demonstrar como modelo dados, construo APIs e resolvo problemas com código.
 
 ---
 
-<p align="center"><i>Construindo soluções úteis, aprendendo a cada projeto.</i></p>
+<p align="center"><code>BUILDING · LEARNING · SHIPPING</code></p>
