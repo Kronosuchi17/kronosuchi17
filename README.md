@@ -34,23 +34,29 @@ Tenho conhecimento intermediário em Python e bancos de dados. Nos meus projetos
   <img src="https://raw.githubusercontent.com/Kronosuchi17/kronosuchi17/main/assets/project-cards-red.svg" alt="Cartões vermelhos e pretos dos projetos EduTrack, Sistema Escolar e Mural de Avisos, com descrição e tecnologias de cada um." width="100%">
 </p>
 
-### 01 · EduTrack
+### 01 · [EduTrack](https://github.com/Kronosuchi17/edutrack-docker)
 
 Aplicação de gestão escolar estruturada em serviços separados para interface, back-end e banco de dados, com conteinerização e HTTPS.
 
-`React` `TypeScript` `Express` `PostgreSQL` `Docker` · Código-fonte privado
+`React` `TypeScript` `Express` `PostgreSQL` `Docker`
 
-### 02 · Sistema Escolar
+[↗ Abrir repositório · privado](https://github.com/Kronosuchi17/edutrack-docker)
+
+### 02 · [Sistema Escolar](https://github.com/Kronosuchi17/sistema-escolar-newM)
 
 Sistema de apoio à rotina escolar com chamada, diário de classe, notas, boletins, comunicados e calendário.
 
-`React` `TypeScript` `Express` `PostgreSQL` · Código-fonte privado
+`React` `TypeScript` `Express` `PostgreSQL`
 
-### 03 · Mural de Avisos
+[↗ Abrir repositório · privado](https://github.com/Kronosuchi17/sistema-escolar-newM)
+
+### 03 · [Mural de Avisos](https://github.com/Kronosuchi17/mural-avisos)
 
 Mural de comunicados organizados por turma, com atualização em tempo real e notificações para responsáveis.
 
-`React` `TypeScript` `Express` `PostgreSQL` · Código-fonte privado
+`React` `TypeScript` `Express` `PostgreSQL`
+
+[↗ Abrir repositório · privado](https://github.com/Kronosuchi17/mural-avisos)
 
 ## `$ education --current`
 
