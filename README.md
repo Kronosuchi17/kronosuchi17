@@ -7,9 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kronosuchi17"><img src="https://img.shields.io/badge/GitHub-Kronosuchi17-263B32?style=flat-square&logo=github&logoColor=white" alt="Perfil de Diego no GitHub"></a>
-  <img src="https://img.shields.io/badge/Python-intermedi%C3%A1rio-476450?style=flat-square&logo=python&logoColor=white" alt="Python em nível intermediário">
-  <img src="https://img.shields.io/badge/Banco_de_dados-intermedi%C3%A1rio-C96F4A?style=flat-square&logo=postgresql&logoColor=white" alt="Banco de dados em nível intermediário">
+  <kbd>Python · intermediário</kbd>
+  &nbsp;
+  <kbd>Banco de dados · intermediário</kbd>
+  &nbsp;
+  <a href="https://github.com/Kronosuchi17">Meu GitHub</a>
 </p>
 
 ## Olá, eu sou o Diego 👋
