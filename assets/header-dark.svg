@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Diego Silveira — portfólio</title>
+<desc id="desc">Capa em tons escuros de verde, com detalhes terracota, para um portfólio de desenvolvimento back-end.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17231F"/><stop offset="1" stop-color="#263A32"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E58B62"/><stop offset="1" stop-color="#F2C27A"/></linearGradient></defs>
+<rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+<circle cx="1080" cy="46" r="170" fill="#3E5E4C"/><circle cx="1110" cy="62" r="106" fill="#E58B62" opacity=".22"/><circle cx="1020" cy="264" r="88" fill="#F2C27A" opacity=".18"/>
+<path d="M0 270 Q220 218 410 275 T820 270 T1200 250 V320 H0Z" fill="#314A3E" opacity=".8"/>
+<rect x="72" y="66" width="8" height="188" rx="4" fill="url(#accent)"/>
+<text x="112" y="111" fill="#A8C4A9" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="3">PORTFÓLIO • DESENVOLVIMENTO</text>
+<text x="108" y="181" fill="#F3F2E9" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="700">Diego Silveira</text>
+<text x="112" y="224" fill="#C8D3C8" font-family="Segoe UI,Arial,sans-serif" font-size="25">Back-end em formação  ·  Python  ·  Banco de dados</text>
+<g transform="translate(1010 116)" fill="none" stroke="#A8C4A9" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><rect x="0" y="0" width="104" height="82" rx="18"/><path d="M39 25 24 41l15 16M65 25l15 16-15 16M59 16 46 66"/></g>
+</svg>
