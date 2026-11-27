@@ -2,52 +2,57 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kronosuchi17/kronosuchi17/main/assets/header-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kronosuchi17/kronosuchi17/main/assets/header-light.svg">
-    <img alt="Portfólio de Diego Silveira: desenvolvimento back-end, Python e bancos de dados." src="https://raw.githubusercontent.com/Kronosuchi17/kronosuchi17/main/assets/header-light.svg" width="100%">
+    <img alt="Portfólio de Diego Silveira, estudante de ADS com foco em back-end, Python, SQL e APIs." src="https://raw.githubusercontent.com/Kronosuchi17/kronosuchi17/main/assets/header-light.svg" width="100%">
   </picture>
 </p>
 
 <p align="center">
   <kbd>Python · intermediário</kbd>
-  &nbsp;
-  <kbd>Banco de dados · intermediário</kbd>
-  &nbsp;
-  <a href="https://github.com/Kronosuchi17">Meu GitHub</a>
+  &nbsp; <kbd>Banco de dados · intermediário</kbd>
+  &nbsp; <a href="https://github.com/Kronosuchi17">GitHub: Kronosuchi17</a>
 </p>
 
-## Olá, eu sou o Diego 👋
+## `$ whoami`
 
-Sou graduando em **Análise e Desenvolvimento de Sistemas** e estou direcionando minha carreira para **desenvolvimento back-end com Python e bancos de dados**.
+Sou **Diego Silveira**, graduando em **Análise e Desenvolvimento de Sistemas**. Estou direcionando minha carreira para **desenvolvimento back-end com Python e bancos de dados**.
 
-Tenho conhecimento intermediário em Python e bancos de dados. Também desenvolvo projetos de aplicações web com recursos como APIs, persistência de dados e integração entre front-end e back-end.
+Tenho conhecimento intermediário em Python e bancos de dados. Nos meus projetos web, também trabalho com APIs, persistência de dados e integração entre front-end e back-end.
 
-## Projetos em destaque
+## `$ projects --featured`
 
-### EduTrack — gestão escolar
-Aplicação de gestão escolar organizada em serviços separados para interface, back-end e banco de dados, com conteinerização e configuração de HTTPS.
+### EduTrack · Gestão escolar
 
-**Tecnologias do projeto:** React, TypeScript, Express, PostgreSQL e Docker.  
-**Acesso ao código:** repositório privado.
+Aplicação de gestão escolar estruturada em serviços separados para interface, back-end e banco de dados, com conteinerização e HTTPS.
 
-### Sistema Escolar — presença e notas
-Sistema escolar com recursos para chamada, diário de classe, notas, boletins, comunicados e calendário.
+**Stack do projeto:** React · TypeScript · Express · PostgreSQL · Docker  
+**Código-fonte:** repositório privado
 
-**Tecnologias do projeto:** React, TypeScript, Express e PostgreSQL.  
-**Acesso ao código:** repositório privado.
+### Sistema Escolar · Presença e notas
 
-### Mural de Avisos
-Aplicação para publicação de comunicados por turma, com atualização em tempo real e notificações para os responsáveis.
+Sistema para apoiar chamada, diário de classe, notas, boletins, comunicados e calendário.
 
-**Tecnologias do projeto:** React, TypeScript, Express e PostgreSQL.  
-**Acesso ao código:** repositório privado.
+**Stack do projeto:** React · TypeScript · Express · PostgreSQL  
+**Código-fonte:** repositório privado
 
-## Formação
+### Mural de Avisos · Comunicação escolar
+
+Mural de comunicados por turma, com atualização em tempo real e notificações para responsáveis.
+
+**Stack do projeto:** React · TypeScript · Express · PostgreSQL  
+**Código-fonte:** repositório privado
+
+## `$ toolkit --skills`
+
+- **Python:** intermediário
+- **Bancos de dados:** intermediário
+- **Tecnologias presentes nos projetos:** TypeScript, React, Express, PostgreSQL e Docker
+
+## `$ education --current`
 
 🎓 **Análise e Desenvolvimento de Sistemas** — graduação em andamento
 
-## Cursos
-
 <details>
-  <summary>Ver cursos e certificados</summary>
+  <summary>Cursos e certificados</summary>
 
 - Linguagem de Programação em Python
 - Administrando Banco de Dados
@@ -61,12 +66,10 @@ Aplicação para publicação de comunicados por turma, com atualização em tem
 
 </details>
 
-## Em desenvolvimento
+## `$ next`
 
-Estou aprofundando meus estudos em **Python, bancos de dados e desenvolvimento back-end**. Meu próximo passo é criar projetos nessa stack para mostrar, com exemplos práticos, como organizo dados, construo APIs e resolvo problemas com código.
+Criar projetos de back-end com Python e bancos de dados para demonstrar, na prática, como modelo dados, construo APIs e resolvo problemas com código.
 
 ---
 
-<p align="center">
-  <i>Construindo soluções úteis, aprendendo a cada projeto.</i>
-</p>
+<p align="center"><i>Construindo soluções úteis, aprendendo a cada projeto.</i></p>
